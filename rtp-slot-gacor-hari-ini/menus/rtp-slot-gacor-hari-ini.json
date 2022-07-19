@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle rtp-slot-gacor-hari-ini",
+        "command": "rtp-slot-gacor-hari-ini:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rtp-slot-gacor-hari-ini",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "rtp-slot-gacor-hari-ini:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

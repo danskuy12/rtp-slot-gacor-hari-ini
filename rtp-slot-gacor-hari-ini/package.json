@@ -1,0 +1,23 @@
+{
+  "name": "rtp-slot-gacor-hari-ini",
+  "main": "./lib/rtp-slot-gacor-hari-ini",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "rtp",
+    "rtp slot",
+    "rtp slot gacor",
+    "rtp live",
+    "rtp pragmatic"
+  ],
+  "activationCommands": {
+    "atom-workspace": "rtp-slot-gacor-hari-ini:toggle"
+  },
+  "repository": "https://github.com/danskuy12/rtp-slot-gacor-hari-ini.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
